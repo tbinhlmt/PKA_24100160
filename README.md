@@ -1,5 +1,5 @@
 # Tổng hợp chương 1
-## Bài1: Các khía niệm cơ bản
+## Bài1: Các khái niệm cơ bản về máy tính và công nghệ thông tin 
 ### 1. Khái niệm cơ bản
 ▪ Máy tính (Computer): Thiết bị điện tử có khả năng xử lý dữ liệu theo các lệnh đã lập trình. Máy tính bao gồm phần cứng (hardware) và phần mềm (software).
 
