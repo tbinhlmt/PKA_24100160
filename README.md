@@ -5,6 +5,7 @@
 Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến việc sử dụng máy tính và phần mềm để quản lý, xử lý và truyền đạt thông tin.
 ### 2. Phần cứng (Hardware)
 ▪ Bộ xử lý trung tâm (CPU): "Bộ não" của máy tính, thực hiện các phép toán và xử lý lệnh.
+
 ▪ Bộ nhớ (RAM): Nơi lưu trữ tạm thời dữ liệu và chương trình đang chạy.
 ▪ Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài. SSD nhanh hơn nhưng có giá cao hơn HDD.
 ▪ Bo mạch chủ (Motherboard): Kết nối các thành phần của máy tính với nhau.
