@@ -2,7 +2,9 @@
 ## Bài1: Các khía niệm cơ bản
 ### 1. Khái niệm cơ bản
 ▪ Máy tính (Computer): Thiết bị điện tử có khả năng xử lý dữ liệu theo các lệnh đã lập trình. Máy tính bao gồm phần cứng (hardware) và phần mềm (software).
-Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến việc sử dụng máy tính và phần mềm để quản lý, xử lý và truyền đạt thông tin.
+
+▪ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến việc sử dụng máy tính và phần mềm để quản lý, xử lý và truyền đạt thông tin.
+
 ### 2. Phần cứng (Hardware)
 ▪ Bộ xử lý trung tâm (CPU): "Bộ não" của máy tính, thực hiện các phép toán và xử lý lệnh.
 
@@ -15,14 +17,21 @@ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến 
 ▪ Thiết bị ngoại vi: Bao gồm bàn phím, chuột, màn hình, máy in, v.v.
 ### 3. Phần mềm (Software)
 ▪ Hệ điều hành (Operating System): Phần mềm quản lý phần cứng và phần mềm khác (Windows, macOS, Linux).
+
 ▪ Ứng dụng (Applications): Phần mềm phục vụ các nhu cầu cụ thể, như Microsoft Office, trình duyệt web, phần mềm đồ họa, v.v.
+
 ### 4. Mạng máy tính (Computer Networks)
 ▪ Mạng LAN: Mạng cục bộ, kết nối các máy tính trong một khu vực nhỏ.
+
 ▪ Mạng WAN: Mạng diện rộng, kết nối các máy tính ở khoảng cách xa.
+
 ▪ Internet: Mạng lưới toàn cầu kết nối hàng triệu máy tính.
+
 ### 5. Lập trình (Programming)
 ▪ Ngôn ngữ lập trình: Các ngôn ngữ được sử dụng để viết mã phần mềm (Python, Java, C++, v.v.).
+
 ▪ Phát triển phần mềm: Quy trình thiết kế, lập trình, kiểm tra và bảo trì phần mềm.
+
 ## Bài2: Biểu diễn thông tin và hệ thống số
 ### 1. Biểu diễn thông tin
 *  Thông tin có thể được biểu diễn theo nhiều cách khác nhau trong máy tính, thường bao gồm:
