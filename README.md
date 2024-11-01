@@ -25,7 +25,7 @@ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến 
 ▪ Phát triển phần mềm: Quy trình thiết kế, lập trình, kiểm tra và bảo trì phần mềm.
 ## Bài2: Biểu diễn thông tin và hệ thống số
 ### 1. Biểu diễn thông tin
-• Thông tin có thể được biểu diễn theo nhiều cách khác nhau trong máy tính, thường bao gồm:
+*  Thông tin có thể được biểu diễn theo nhiều cách khác nhau trong máy tính, thường bao gồm:
 
 ▪ Dữ liệu nhị phân: Tất cả thông tin trong máy tính được biểu diễn bằng hệ nhị phân (0 và 1). Mỗi bit là một đơn vị thông tin nhỏ nhất.
 Các kiểu dữ liệu:
@@ -48,10 +48,15 @@ Unicode: Mở rộng mã hóa để hỗ trợ nhiều ngôn ngữ và ký tự 
 
 ### 2. Hệ thống số
 • Hệ thống số là các phương pháp biểu diễn và làm việc với các số. Một số hệ thống số phổ biến:
+
   Hệ nhị phân (Base-2): Chỉ sử dụng hai ký tự 0 và 1. Là hệ thống cơ bản trong máy tính.
+  
   Hệ thập phân (Base-10): Hệ thống mà con người thường sử dụng, bao gồm các chữ số từ 0 đến 9.
+  
   Hệ bát phân (Base-8): Sử dụng các chữ số từ 0 đến 7. Thường được sử dụng trong lập trình.
+  
   Hệ thập lục phân (Base-16): Sử dụng các ký tự từ 0 đến 9 và A đến F. Thường được dùng để biểu diễn dữ liệu nhị phân một cách ngắn gọn hơn.
+  
 ### 3. Chuyển đổi giữa các hệ thống số
 • Việc chuyển đổi giữa các hệ thống số là rất quan trọng. Một số quy tắc cơ bản:
 Chuyển từ thập phân sang nhị phân: Chia số cho 2 và ghi lại phần dư cho đến khi kết quả là 0.
