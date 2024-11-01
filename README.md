@@ -94,7 +94,7 @@ Chuyển đổi giữa các hệ khác: Sử dụng quy tắc tương tự hoặ
 
 • Người dùng có thể sử dụng các chương trình khác nhau để tạo, chỉnh sửa, sao chép, và xoá tập tin
 
- *  Thư mục: là một đơn vị logic dùng để nhóm, tổ chức và chứa các tập tin mới mục đích khác nhau.
+▪ Thư mục: là một đơn vị logic dùng để nhóm, tổ chức và chứa các tập tin mới mục đích khác nhau.
   
 • Thư mục có thể chứa nhiều thư mục con khác nhau
 
