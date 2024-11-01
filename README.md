@@ -23,9 +23,10 @@ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến 
 ## Bài2: Biểu diễn thông tin và hệ thống số
 ### 1. Biểu diễn thông tin
 • Thông tin có thể được biểu diễn theo nhiều cách khác nhau trong máy tính, thường bao gồm:
-• Dữ liệu nhị phân: Tất cả thông tin trong máy tính được biểu diễn bằng hệ nhị phân (0 và 1). Mỗi bit là một đơn vị thông tin nhỏ nhất.
+
+▪ Dữ liệu nhị phân: Tất cả thông tin trong máy tính được biểu diễn bằng hệ nhị phân (0 và 1). Mỗi bit là một đơn vị thông tin nhỏ nhất.
 Các kiểu dữ liệu:
-• Số nguyên (Integer): Số không có phần thập phân (ví dụ: 0, -1, 42).
+▪ Số nguyên (Integer): Số không có phần thập phân (ví dụ: 0, -1, 42).
 • Số thực (Floating-point): Số có phần thập phân (ví dụ: 3.14, -0.001).
 • Ký tự (Character): Được biểu diễn bằng mã ASCII hoặc Unicode (ví dụ: 'A', 'b').
 • Chuỗi (String): Tập hợp các ký tự (ví dụ: "Hello, World!").
