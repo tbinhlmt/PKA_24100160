@@ -241,15 +241,25 @@ o Được phát triển vào năm 1992 bởi Linus Torvalds, người cũng đ�
 • Các bản phân phối này sử dụng Redhat Package Manage (.rpm), yum để quản lý phần mềm.
 
 ### 2. Hệ thống tệp Linux
+
 directory description
+
 / Thư mục gốc chứa tất cả các thư mục
+
 /bin Ứng dụng/chương trình(i.e. binaries)
+
 /dev Thiết bị phần cứng
+
 /etc Tệp cấu hình
+
 /home Chứa thư mục chính của người dùng
+
 /proc Chạy chương trình (quy trình)
+
 /tmp, /var Tệp tạm thời
+
 /usr Tài nguyên hệ thống phổ quát
+
 ### 3. Thư mục tương đối
 directory description
 
