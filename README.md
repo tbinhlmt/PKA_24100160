@@ -143,7 +143,7 @@ Cấu trúc cây thư mục: Các tập tin và thư mục thường được t�
 • Dấu “.” đại điện cho thư mục hiện hành, “..” đại diện cho thư mục cha
 
  * Activity: Xác định đường dẫn
- * 
+   
 Sử dụng cấu trúc cây thư mục như hình vẽ:
 
 • Xác định đường dẫn tuyệt đối đến thư mục X11
@@ -154,7 +154,7 @@ Sử dụng cấu trúc cây thư mục như hình vẽ:
 
 • Chỉ đường dẫn tuyệt đối đến hai thư mục misc
 
- *Activity: Giới thiệu File Explorer
+ * Activity: Giới thiệu File Explorer
  
 • Các thành phần của File Explorer: thanh địa chỉ, thanh tìm kiếm, thanh menu, ...
 
@@ -168,7 +168,7 @@ Sử dụng cấu trúc cây thư mục như hình vẽ:
 
 • Tạo tập tin mới bằng Word, Excel, hoặc Notepad...
 
- *Activity: Giới thiệu File Explorer
+ * Activity: Giới thiệu File Explorer
  
 • Đổi tên tập tin và thư mục
 
@@ -178,7 +178,7 @@ Sử dụng cấu trúc cây thư mục như hình vẽ:
 
 • Tìm kiếm tập tin
 
- *Activity: Thực hành
+ * Activity: Thực hành
  
 • Tạo một cấu trúc cây thư mục cho một dự án
 
