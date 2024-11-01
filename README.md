@@ -7,8 +7,11 @@ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến 
 ▪ Bộ xử lý trung tâm (CPU): "Bộ não" của máy tính, thực hiện các phép toán và xử lý lệnh.
 
 ▪ Bộ nhớ (RAM): Nơi lưu trữ tạm thời dữ liệu và chương trình đang chạy.
+
 ▪ Ổ cứng (HDD/SSD): Lưu trữ dữ liệu lâu dài. SSD nhanh hơn nhưng có giá cao hơn HDD.
+
 ▪ Bo mạch chủ (Motherboard): Kết nối các thành phần của máy tính với nhau.
+
 ▪ Thiết bị ngoại vi: Bao gồm bàn phím, chuột, màn hình, máy in, v.v.
 ### 3. Phần mềm (Software)
 ▪ Hệ điều hành (Operating System): Phần mềm quản lý phần cứng và phần mềm khác (Windows, macOS, Linux).
@@ -26,14 +29,23 @@ Công nghệ thông tin (Information Technology - IT): Ngành liên quan đến 
 
 ▪ Dữ liệu nhị phân: Tất cả thông tin trong máy tính được biểu diễn bằng hệ nhị phân (0 và 1). Mỗi bit là một đơn vị thông tin nhỏ nhất.
 Các kiểu dữ liệu:
+
 ▪ Số nguyên (Integer): Số không có phần thập phân (ví dụ: 0, -1, 42).
+
 • Số thực (Floating-point): Số có phần thập phân (ví dụ: 3.14, -0.001).
+
 • Ký tự (Character): Được biểu diễn bằng mã ASCII hoặc Unicode (ví dụ: 'A', 'b').
+
 • Chuỗi (String): Tập hợp các ký tự (ví dụ: "Hello, World!").
+
 • Hình ảnh, âm thanh, video: Thông tin đa phương tiện được mã hóa và lưu trữ dưới dạng nhị phân.
+
 • Hệ mã hóa:
+
 ASCII: Mã hóa ký tự cơ bản với 128 ký tự.
+
 Unicode: Mở rộng mã hóa để hỗ trợ nhiều ngôn ngữ và ký tự hơn.
+
 ### 2. Hệ thống số
 • Hệ thống số là các phương pháp biểu diễn và làm việc với các số. Một số hệ thống số phổ biến:
   Hệ nhị phân (Base-2): Chỉ sử dụng hai ký tự 0 và 1. Là hệ thống cơ bản trong máy tính.
