@@ -304,7 +304,7 @@ directory description
 • Bạn có thể sử dụng Git hoàn toàn cục bộ cho mục đích của riêng bạn hoặc bạn có thể sử dụng dịch vụ khác như GitLab (GitLab.com)
 
  * Tài liệu Git
- * 
+   
 • GitHub.com là trang web lưu trữ trực tuyến các kho lưu trữ Git.
 
 • Tại dòng lệnh: (nơi <verb> = config, add, commit, v.v.)
