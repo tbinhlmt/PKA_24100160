@@ -346,15 +346,15 @@ $ man git-<verb>
 ### 6. Lệnh Git
 ▪ Lệnh Mô tả
 
-git clone url [dir] sao chép kho lưu trữ git để bạn có thể thêm vào đó
+git clone url [dir]: sao chép kho lưu trữ git để bạn có thể thêm vào đó
 
-git add files thêm nội dung tập tin vào vùng dàn dựng
+git add files: thêm nội dung tập tin vào vùng dàn dựng
 
-git commit ghi lại ảnh chụp nhanh của khu vực dàn dựng
+git commit: ghi lại ảnh chụp nhanh của khu vực dàn dựng
 
-git status xem trạng thái của các tập tin của bạn trong thư mục làm việc và khu vực dàn dựng
+git status: xem trạng thái của các tập tin của bạn trong thư mục làm việc và khu vực dàn dựng
 
-git diff hiển thị sự khác biệt giữa những gì được dàn dựng và những gì được sửa đổi nhưng không được dàn dựng
+git diff: hiển thị sự khác biệt giữa những gì được dàn dựng và những gì được sửa đổi nhưng không được dàn dựng
 
   git help [command] nhận thông tin trợ giúp về một lệnh cụ thể
   git pull lấy từ một kho lưu trữ từ xa và thử hợp nhất vào nhánh hiện tại
